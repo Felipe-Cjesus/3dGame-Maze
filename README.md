@@ -22,7 +22,7 @@
 ### Main and playable character
 ![Captura de tela 2024-06-03 212421](https://github.com/Felipe-Cjesus/3dGame-Maze/assets/69065836/60ff35ea-31a9-4681-a53a-8b79be0a71f8)
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 - [Git](https://git-scm.com) ✅
 - [Unity](https://unity.com/pt) ✅
